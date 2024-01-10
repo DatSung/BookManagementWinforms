@@ -1,0 +1,14 @@
+D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-Repository\bin\Debug\net6.0\BookStore-Repository.deps.json
+D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-Repository\bin\Debug\net6.0\BookStore-Repository.runtimeconfig.json
+D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-Repository\bin\Debug\net6.0\BookStore-Repository.dll
+D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-Repository\bin\Debug\net6.0\BookStore-Repository.pdb
+D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-Repository\obj\Debug\net6.0\BookStore-Repository.csproj.AssemblyReference.cache
+D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-Repository\obj\Debug\net6.0\BookStore-Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-Repository\obj\Debug\net6.0\BookStore-Repository.AssemblyInfoInputs.cache
+D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-Repository\obj\Debug\net6.0\BookStore-Repository.AssemblyInfo.cs
+D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-Repository\obj\Debug\net6.0\BookStore-Repository.csproj.CoreCompileInputs.cache
+D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-Repository\obj\Debug\net6.0\BookStore-Repository.dll
+D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-Repository\obj\Debug\net6.0\refint\BookStore-Repository.dll
+D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-Repository\obj\Debug\net6.0\BookStore-Repository.pdb
+D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-Repository\obj\Debug\net6.0\BookStore-Repository.genruntimeconfig.cache
+D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-Repository\obj\Debug\net6.0\ref\BookStore-Repository.dll

@@ -1,0 +1,15 @@
+D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-Service\bin\Debug\net6.0\BookStore-Service.deps.json
+D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-Service\bin\Debug\net6.0\BookStore-Service.dll
+D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-Service\bin\Debug\net6.0\BookStore-Service.pdb
+D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-Service\bin\Debug\net6.0\BookStore-Repository.dll
+D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-Service\bin\Debug\net6.0\BookStore-Repository.pdb
+D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-Service\obj\Debug\net6.0\BookStore-Service.csproj.AssemblyReference.cache
+D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-Service\obj\Debug\net6.0\BookStore-Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-Service\obj\Debug\net6.0\BookStore-Service.AssemblyInfoInputs.cache
+D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-Service\obj\Debug\net6.0\BookStore-Service.AssemblyInfo.cs
+D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-Service\obj\Debug\net6.0\BookStore-Service.csproj.CoreCompileInputs.cache
+D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-Service\obj\Debug\net6.0\BookStore-Service.csproj.CopyComplete
+D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-Service\obj\Debug\net6.0\BookStore-Service.dll
+D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-Service\obj\Debug\net6.0\refint\BookStore-Service.dll
+D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-Service\obj\Debug\net6.0\BookStore-Service.pdb
+D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-Service\obj\Debug\net6.0\ref\BookStore-Service.dll
