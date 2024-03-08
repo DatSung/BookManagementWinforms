@@ -3,27 +3,23 @@
   "WorkspaceRootPath": "D:\\FPT_University_Sources\\Term_5\\PRN211\\Hands-on-outside\\WinForm-Project\\PE_PRN211_FA23_DATNT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26B908F6-4A8A-420B-BE98-003606CC76CD}|BookStore-DatNT\\BookStore-DatNT.csproj|d:\\fpt_university_sources\\term_5\\prn211\\hands-on-outside\\winform-project\\pe_prn211_fa23_datnt\\bookstore-datnt\\bookform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26B908F6-4A8A-420B-BE98-003606CC76CD}|BookStore-DatNT\\BookStore-DatNT.csproj|solutionrelative:bookstore-datnt\\bookform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26B908F6-4A8A-420B-BE98-003606CC76CD}|BookStore-DatNT\\BookStore-DatNT.csproj|d:\\fpt_university_sources\\term_5\\prn211\\hands-on-outside\\winform-project\\pe_prn211_fa23_datnt\\bookstore-datnt\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B908F6-4A8A-420B-BE98-003606CC76CD}|BookStore-DatNT\\BookStore-DatNT.csproj|solutionrelative:bookstore-datnt\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26B908F6-4A8A-420B-BE98-003606CC76CD}|BookStore-DatNT\\BookStore-DatNT.csproj|d:\\fpt_university_sources\\term_5\\prn211\\hands-on-outside\\winform-project\\pe_prn211_fa23_datnt\\bookstore-datnt\\bookmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{26B908F6-4A8A-420B-BE98-003606CC76CD}|BookStore-DatNT\\BookStore-DatNT.csproj|solutionrelative:bookstore-datnt\\bookmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26B908F6-4A8A-420B-BE98-003606CC76CD}|BookStore-DatNT\\BookStore-DatNT.csproj|d:\\fpt_university_sources\\term_5\\prn211\\hands-on-outside\\winform-project\\pe_prn211_fa23_datnt\\bookstore-datnt\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{26B908F6-4A8A-420B-BE98-003606CC76CD}|BookStore-DatNT\\BookStore-DatNT.csproj|D:\\FPT_University_Sources\\Term_5\\PRN211\\Hands-on-outside\\WinForm-Project\\PE_PRN211_FA23_DATNT\\bookstore-datnt\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{26B908F6-4A8A-420B-BE98-003606CC76CD}|BookStore-DatNT\\BookStore-DatNT.csproj|solutionrelative:bookstore-datnt\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26B908F6-4A8A-420B-BE98-003606CC76CD}|BookStore-DatNT\\BookStore-DatNT.csproj|d:\\fpt_university_sources\\term_5\\prn211\\hands-on-outside\\winform-project\\pe_prn211_fa23_datnt\\bookstore-datnt\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26B908F6-4A8A-420B-BE98-003606CC76CD}|BookStore-DatNT\\BookStore-DatNT.csproj|solutionrelative:bookstore-datnt\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26B908F6-4A8A-420B-BE98-003606CC76CD}|BookStore-DatNT\\BookStore-DatNT.csproj|d:\\fpt_university_sources\\term_5\\prn211\\hands-on-outside\\winform-project\\pe_prn211_fa23_datnt\\bookstore-datnt\\bookmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B908F6-4A8A-420B-BE98-003606CC76CD}|BookStore-DatNT\\BookStore-DatNT.csproj|solutionrelative:bookstore-datnt\\bookmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26B908F6-4A8A-420B-BE98-003606CC76CD}|BookStore-DatNT\\BookStore-DatNT.csproj|d:\\fpt_university_sources\\term_5\\prn211\\hands-on-outside\\winform-project\\pe_prn211_fa23_datnt\\bookstore-datnt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26B908F6-4A8A-420B-BE98-003606CC76CD}|BookStore-DatNT\\BookStore-DatNT.csproj|solutionrelative:bookstore-datnt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26B908F6-4A8A-420B-BE98-003606CC76CD}|BookStore-DatNT\\BookStore-DatNT.csproj|D:\\FPT_University_Sources\\Term_5\\PRN211\\Hands-on-outside\\WinForm-Project\\PE_PRN211_FA23_DATNT\\bookstore-datnt\\bookmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26B908F6-4A8A-420B-BE98-003606CC76CD}|BookStore-DatNT\\BookStore-DatNT.csproj|solutionrelative:bookstore-datnt\\bookmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26B908F6-4A8A-420B-BE98-003606CC76CD}|BookStore-DatNT\\BookStore-DatNT.csproj|d:\\fpt_university_sources\\term_5\\prn211\\hands-on-outside\\winform-project\\pe_prn211_fa23_datnt\\bookstore-datnt\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{26B908F6-4A8A-420B-BE98-003606CC76CD}|BookStore-DatNT\\BookStore-DatNT.csproj|D:\\FPT_University_Sources\\Term_5\\PRN211\\Hands-on-outside\\WinForm-Project\\PE_PRN211_FA23_DATNT\\bookstore-datnt\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{26B908F6-4A8A-420B-BE98-003606CC76CD}|BookStore-DatNT\\BookStore-DatNT.csproj|solutionrelative:bookstore-datnt\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -34,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 249,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +42,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookForm.cs",
+              "DocumentMoniker": "D:\\FPT_University_Sources\\Term_5\\PRN211\\Hands-on-outside\\WinForm-Project\\PE_PRN211_FA23_DATNT\\BookStore-DatNT\\BookForm.cs",
+              "RelativeDocumentMoniker": "BookStore-DatNT\\BookForm.cs",
+              "ToolTip": "D:\\FPT_University_Sources\\Term_5\\PRN211\\Hands-on-outside\\WinForm-Project\\PE_PRN211_FA23_DATNT\\BookStore-DatNT\\BookForm.cs",
+              "RelativeToolTip": "BookStore-DatNT\\BookForm.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAwwDQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T09:36:32.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "BookManagerForm.cs",
+              "DocumentMoniker": "D:\\FPT_University_Sources\\Term_5\\PRN211\\Hands-on-outside\\WinForm-Project\\PE_PRN211_FA23_DATNT\\BookStore-DatNT\\BookManagerForm.cs",
+              "RelativeDocumentMoniker": "BookStore-DatNT\\BookManagerForm.cs",
+              "ToolTip": "D:\\FPT_University_Sources\\Term_5\\PRN211\\Hands-on-outside\\WinForm-Project\\PE_PRN211_FA23_DATNT\\BookStore-DatNT\\BookManagerForm.cs",
+              "RelativeToolTip": "BookStore-DatNT\\BookManagerForm.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAAAUwMgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T09:35:27.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "BookForm.cs [Design]",
               "DocumentMoniker": "D:\\FPT_University_Sources\\Term_5\\PRN211\\Hands-on-outside\\WinForm-Project\\PE_PRN211_FA23_DATNT\\BookStore-DatNT\\BookForm.cs",
               "RelativeDocumentMoniker": "BookStore-DatNT\\BookForm.cs",
@@ -58,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "BookManagerForm.cs [Design]",
               "DocumentMoniker": "D:\\FPT_University_Sources\\Term_5\\PRN211\\Hands-on-outside\\WinForm-Project\\PE_PRN211_FA23_DATNT\\BookStore-DatNT\\BookManagerForm.cs",
               "RelativeDocumentMoniker": "BookStore-DatNT\\BookManagerForm.cs",
@@ -70,44 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BookForm.Designer.cs",
-              "DocumentMoniker": "D:\\FPT_University_Sources\\Term_5\\PRN211\\Hands-on-outside\\WinForm-Project\\PE_PRN211_FA23_DATNT\\BookStore-DatNT\\BookForm.Designer.cs",
-              "RelativeDocumentMoniker": "BookStore-DatNT\\BookForm.Designer.cs",
-              "ToolTip": "D:\\FPT_University_Sources\\Term_5\\PRN211\\Hands-on-outside\\WinForm-Project\\PE_PRN211_FA23_DATNT\\BookStore-DatNT\\BookForm.Designer.cs",
-              "RelativeToolTip": "BookStore-DatNT\\BookForm.Designer.cs",
-              "ViewState": "AQIAAOoAAAAAAAAAAAAYwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T07:06:31.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginForm.Designer.cs",
-              "DocumentMoniker": "D:\\FPT_University_Sources\\Term_5\\PRN211\\Hands-on-outside\\WinForm-Project\\PE_PRN211_FA23_DATNT\\BookStore-DatNT\\LoginForm.Designer.cs",
-              "RelativeDocumentMoniker": "BookStore-DatNT\\LoginForm.Designer.cs",
-              "ToolTip": "D:\\FPT_University_Sources\\Term_5\\PRN211\\Hands-on-outside\\WinForm-Project\\PE_PRN211_FA23_DATNT\\BookStore-DatNT\\LoginForm.Designer.cs",
-              "RelativeToolTip": "BookStore-DatNT\\LoginForm.Designer.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBMAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T07:05:45.332Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FPT_University_Sources\\Term_5\\PRN211\\Hands-on-outside\\WinForm-Project\\PE_PRN211_FA23_DATNT\\BookStore-DatNT\\Program.cs",
-              "RelativeDocumentMoniker": "BookStore-DatNT\\Program.cs",
-              "ToolTip": "D:\\FPT_University_Sources\\Term_5\\PRN211\\Hands-on-outside\\WinForm-Project\\PE_PRN211_FA23_DATNT\\BookStore-DatNT\\Program.cs",
-              "RelativeToolTip": "BookStore-DatNT\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T07:05:35.616Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "LoginForm.cs [Design]",
               "DocumentMoniker": "D:\\FPT_University_Sources\\Term_5\\PRN211\\Hands-on-outside\\WinForm-Project\\PE_PRN211_FA23_DATNT\\BookStore-DatNT\\LoginForm.cs",
               "RelativeDocumentMoniker": "BookStore-DatNT\\LoginForm.cs",
