@@ -53,9 +53,10 @@ D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN2
 D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-DatNT\obj\Debug\net6.0-windows\BookStore-DatNT.AssemblyInfoInputs.cache
 D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-DatNT\obj\Debug\net6.0-windows\BookStore-DatNT.AssemblyInfo.cs
 D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-DatNT\obj\Debug\net6.0-windows\BookStore-DatNT.csproj.CoreCompileInputs.cache
-D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-DatNT\obj\Debug\net6.0-windows\BookStore-DatNT.csproj.CopyComplete
 D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-DatNT\obj\Debug\net6.0-windows\BookStore-DatNT.dll
 D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-DatNT\obj\Debug\net6.0-windows\refint\BookStore-DatNT.dll
 D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-DatNT\obj\Debug\net6.0-windows\BookStore-DatNT.pdb
 D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-DatNT\obj\Debug\net6.0-windows\BookStore-DatNT.genruntimeconfig.cache
 D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-DatNT\obj\Debug\net6.0-windows\ref\BookStore-DatNT.dll
+D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-DatNT\obj\Debug\net6.0-windows\BookStore-DatNT.sourcelink.json
+D:\FPT_University_Sources\Term_5\PRN211\Hands-on-outside\WinForm-Project\PE_PRN211_FA23_DATNT\BookStore-DatNT\obj\Debug\net6.0-windows\BookStor.D0C60971.Up2Date

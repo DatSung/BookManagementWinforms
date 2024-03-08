@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fBW359k8h5mdQuJEOQuWSdaVt6I6JuvHcUBI3vZvd+1BFeKWoUv4MYBTsRfzv7wB9pAsiLRCCQ+3jw+yTJDl/g==",
+  "dgSpecHash": "PxCNFZqCy6uv/+aohtCYto7XQDyn+MSikmPpTFfx+HgOgDR4hFYj7f5SIzDOtNa1sl65z10mTmziQ/mwSTeNiA==",
   "success": true,
   "projectFilePath": "D:\\FPT_University_Sources\\Term_5\\PRN211\\Hands-on-outside\\WinForm-Project\\PE_PRN211_FA23_DATNT\\BookStore-Repository\\BookStore-Repository.csproj",
   "expectedPackageFiles": [
@@ -54,7 +54,10 @@
     "C:\\Users\\uinic\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
     "C:\\Users\\uinic\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\uinic\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\uinic\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+    "C:\\Users\\uinic\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
+    "C:\\Users\\uinic\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\uinic\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\uinic\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
   ],
   "logs": []
 }
